@@ -5,7 +5,7 @@ Vivliostyle Flavored Markdown (VFM), a Markdown syntax optimized for book author
 ## Hard new line
 
 - A newline puts `<br/>` to the end of a line.
-- Consecutive 2 newlines creates a new sentence block.
+- Consecutive 2 newlines creates a new paragraph.
 
 **VFM**
 
